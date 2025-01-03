@@ -1,0 +1,50 @@
+html { 
+
+    overflow-x: hidden;
+}
+
+
+body { 
+
+    background-color: black; 
+    color: white; 
+    background-image: url(dark-abstract-2560x1440-modern-design-sleek-aesthetics-26424.jpg);
+    filter: brightness(50%);
+
+}
+
+
+
+#navbar { 
+
+    position: fixed; 
+    top: -0.5%;
+    left: 90%;
+
+}
+
+#navbar > ul { 
+
+    display: flex; 
+    align-items: center;
+    gap: 30px;
+}
+
+
+#welcometext { 
+    position: absolute; 
+    top: 40%;
+    left: 20%;
+}
+
+
+#welcometext > h1 { 
+    font-size: 50px;
+    
+}
+
+#welcometext > h2 { 
+    font-size: 30px;
+}
+
+
