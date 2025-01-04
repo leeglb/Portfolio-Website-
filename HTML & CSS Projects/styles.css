@@ -1,12 +1,13 @@
 html { 
 
     overflow-x: hidden;
+    
 }
 
 
 body { 
 
-    background-color: black; 
+    
     color: white; 
     background-image: url(dark-abstract-2560x1440-modern-design-sleek-aesthetics-26424.jpg);
     filter: brightness(50%);
@@ -19,7 +20,7 @@ body {
 
     position: fixed; 
     top: -0.5%;
-    left: 90%;
+    left: 80%;
 
 }
 
